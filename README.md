@@ -2,5 +2,6 @@
 Exercicios 1 e 2
 
 Fernanda Lima
-Fernanda Souza
+Fernanda Montinegro
 Regina Caze
+Caio Castro
